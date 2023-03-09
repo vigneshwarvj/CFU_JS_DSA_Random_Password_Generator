@@ -1,12 +1,12 @@
 function createPassword() {
-    // Get the values of the user inputs
+    //  Values of the user inputs
     const length = document.getElementById("length").value;
     const uppercase = document.getElementById("uppercase").checked;
     const lowercase = document.getElementById("lowercase").checked;
     const numbers = document.getElementById("numbers").checked;
     const symbols = document.getElementById("symbols").checked;
     
-    // Create a string containing all possible characters based on user inputs
+    // Input field patterns inputs
     let patterns = "";
     if (uppercase) {
       patterns += "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
@@ -31,7 +31,7 @@ function createPassword() {
     document.getElementById("password__result").value = password;
   }
   
-  // Call createPassword function when the user clicks the "Generate" button
+  // createPassword function when the I clicks the "Generate" button
   document.getElementById("btn").addEventListener("click", createPassword);
   
   //Copy Password for the input field
