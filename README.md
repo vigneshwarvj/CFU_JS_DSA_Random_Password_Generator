@@ -77,14 +77,6 @@ Submit your solution on your respective `Tech` Slack Channel for the rest of the
 
 Remember, if you're looking for feedback on your solution, be sure to ask questions when submitting it. The more specific and detailed you are with your questions, the higher the chance you'll get valuable feedback from the community.
 
-## Got feedback for us?
-
-We love receiving feedback! We're always looking to improve our challenges and our platform. So if you have anything you'd like to mention, please email us at
-
-- surya.umapathy+feedback@ctr.freshworks.com
-- vinit.gore+feedback@ctr.freshworks.com
-- bharathwaj.soundararajan+feedback@ctr.freshworks.com
-
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
