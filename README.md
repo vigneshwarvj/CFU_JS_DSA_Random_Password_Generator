@@ -73,10 +73,6 @@ You can host your site using the above solutions or any other trusted providers.
 
 ## Submitting your solution
 
-Submit your solution on your respective `Tech` Slack Channel for the rest of the community to see.
-
-Remember, if you're looking for feedback on your solution, be sure to ask questions when submitting it. The more specific and detailed you are with your questions, the higher the chance you'll get valuable feedback from the community.
-
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
